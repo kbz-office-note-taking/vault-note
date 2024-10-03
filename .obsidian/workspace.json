@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills to Improve/Communication Skills.md",
+                "file": "bank credit related notes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1821f4b63087dd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Famous banks in Singapore and their general products.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2efa925a3c7bbe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4bd7e5183702d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,9 +118,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills to Improve/Communication Skills.md",
+                "file": "brd.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills to Improve/Communication Skills.md",
+                "file": "brd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +158,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills to Improve/Communication Skills.md"
+                "file": "brd.md"
               }
             }
+          },
+          {
+            "id": "fd91c2d0647cc6bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,12 +185,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcb7143024fff585",
+  "active": "e2efa925a3c7bbe5",
   "lastOpenFiles": [
+    "screenshots",
+    "New folder",
+    "Famous banks in Singapore and their general products.md",
+    "brd.md",
+    "bank credit related notes.md",
     "Skills to Improve/Communication Skills.md",
+    "Data Visualization Stuff.md",
+    "Excalidraw/Drawing 2024-10-03 13.47.36.excalidraw.md",
+    "Excalidraw",
+    "Screenshot (4).png",
+    "credentials.md",
+    "2024-10-03.md",
     "Skills to Improve",
     "Personal Notes"
   ]

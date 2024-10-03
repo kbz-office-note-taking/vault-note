@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "calendar",
+  "obsidian-chartsview-plugin",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-list-callouts"
 ]
