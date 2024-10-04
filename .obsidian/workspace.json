@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ce33dae0666f7c05",
+        "id": "78d4137dd11a1df9",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb7143024fff585",
+            "id": "7d135c092a2325af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bank credit related notes.md",
+                "file": "Skills to Improve/Reading Skills.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1821f4b63087dd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Famous banks in Singapore and their general products.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2efa925a3c7bbe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df4bd7e5183702d9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brd.md",
+                "file": "Skills to Improve/Reading Skills.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "brd.md",
+                "file": "Skills to Improve/Reading Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brd.md"
+                "file": "Skills to Improve/Reading Skills.md"
               }
             }
           },
@@ -169,9 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "77c2cbc8ca09a919",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -189,20 +164,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2efa925a3c7bbe5",
+  "active": "7d135c092a2325af",
   "lastOpenFiles": [
+    "Skills to Improve/Reading Skills.md",
+    "Education Loan.md",
+    "Skills to Improve/Communication Skills.md",
+    "od nature vs loan.md",
+    "bank credit related notes.md",
+    "Famous banks in Singapore and their general products.md",
+    "Data Visualization Stuff.md",
+    "credentials.md",
+    "brd.md",
+    "2024-10-03.md",
+    "screenshots/Screenshot (1).png",
+    "screenshots/Screenshot (2).png",
+    "screenshots/Screenshot (3).png",
+    "My Assignment Projects",
+    "Excalidraw/Drawing 2024-10-04 10.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-04 10.43.22.excalidraw.md",
+    "Screenshot (4).png",
     "screenshots",
     "New folder",
-    "Famous banks in Singapore and their general products.md",
-    "brd.md",
-    "bank credit related notes.md",
-    "Skills to Improve/Communication Skills.md",
-    "Data Visualization Stuff.md",
     "Excalidraw/Drawing 2024-10-03 13.47.36.excalidraw.md",
     "Excalidraw",
-    "Screenshot (4).png",
-    "credentials.md",
-    "2024-10-03.md",
     "Skills to Improve",
     "Personal Notes"
   ]
