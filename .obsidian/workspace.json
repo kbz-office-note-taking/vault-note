@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "78d4137dd11a1df9",
+        "id": "7d9be8529bc913a6",
         "type": "tabs",
         "children": [
           {
-            "id": "7d135c092a2325af",
+            "id": "415c8fa40b8902a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills to Improve/Reading Skills.md",
+                "file": "bank credit related notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa181b72d935872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "credentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills to Improve/Reading Skills.md",
+                "file": "credentials.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills to Improve/Reading Skills.md",
+                "file": "credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills to Improve/Reading Skills.md"
+                "file": "credentials.md"
               }
             }
           },
@@ -146,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,25 +178,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d135c092a2325af",
+  "active": "cfa181b72d935872",
   "lastOpenFiles": [
-    "Skills to Improve/Reading Skills.md",
-    "Education Loan.md",
-    "Skills to Improve/Communication Skills.md",
-    "od nature vs loan.md",
-    "bank credit related notes.md",
-    "Famous banks in Singapore and their general products.md",
     "Data Visualization Stuff.md",
-    "credentials.md",
-    "brd.md",
+    "Education Loan Data Collections.md",
+    "Famous banks in Singapore and their general products.md",
+    "od nature vs loan.md",
+    "uopeople credentials.md",
+    "types of installment method.md",
+    "random facts.md",
+    "bank credit related notes.md",
     "2024-10-03.md",
-    "screenshots/Screenshot (1).png",
-    "screenshots/Screenshot (2).png",
-    "screenshots/Screenshot (3).png",
+    "brd.md",
+    "attachments/Pasted image 20241004115336.png",
+    "attachments/Pasted image 20241004123734.png",
+    "attachments",
+    "folder of template/daily notes.md",
+    "folder of template",
+    "attachments/Pasted image 20241004123655.png",
+    "attachments/Pasted image 20241004123327.png",
+    "attachments/Pasted image 20241004123222.png",
+    "attachments/Pasted image 20241004123149.png",
+    "attachments/Pasted image 20241004115343.png",
+    "attachments/Pasted image 20241004123629.png",
+    "attachments/Pasted image 20241004123615.png",
+    "credentials.md",
+    "attachments/Pasted image 20241004120135.png",
+    "Skills to Improve/Reading Skills.md",
+    "Skills to Improve/Communication Skills.md",
     "My Assignment Projects",
     "Excalidraw/Drawing 2024-10-04 10.43.20.excalidraw.md",
     "Excalidraw/Drawing 2024-10-04 10.43.22.excalidraw.md",
-    "Screenshot (4).png",
     "screenshots",
     "New folder",
     "Excalidraw/Drawing 2024-10-03 13.47.36.excalidraw.md",
