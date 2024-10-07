@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cfa181b72d935872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "credentials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "credentials.md",
+                "file": "bank credit related notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "credentials.md",
+                "file": "bank credit related notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "credentials.md"
+                "file": "bank credit related notes.md"
               }
             }
           },
@@ -163,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,18 +164,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfa181b72d935872",
+  "active": "415c8fa40b8902a7",
   "lastOpenFiles": [
+    "random facts.md",
+    "od interest တွက်နည်း.md",
+    "credentials.md",
+    "What can I get from here.md",
+    "brd.md",
+    "Questions.md",
+    "uopeople credentials.md",
+    "types of installment method.md",
+    "od nature vs loan.md",
+    "bank credit related notes.md",
     "Data Visualization Stuff.md",
     "Education Loan Data Collections.md",
     "Famous banks in Singapore and their general products.md",
-    "od nature vs loan.md",
-    "uopeople credentials.md",
-    "types of installment method.md",
-    "random facts.md",
-    "bank credit related notes.md",
     "2024-10-03.md",
-    "brd.md",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
     "attachments",
@@ -202,7 +192,6 @@
     "attachments/Pasted image 20241004115343.png",
     "attachments/Pasted image 20241004123629.png",
     "attachments/Pasted image 20241004123615.png",
-    "credentials.md",
     "attachments/Pasted image 20241004120135.png",
     "Skills to Improve/Reading Skills.md",
     "Skills to Improve/Communication Skills.md",
