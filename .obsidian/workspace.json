@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9be8529bc913a6",
+        "id": "7eb0741d1419f997",
         "type": "tabs",
         "children": [
           {
-            "id": "415c8fa40b8902a7",
+            "id": "85b505ff89a66233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bank credit related notes.md",
+                "file": "coorperate account.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bank credit related notes.md",
+                "file": "coorperate account.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bank credit related notes.md",
+                "file": "coorperate account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bank credit related notes.md"
+                "file": "coorperate account.md"
               }
             }
           },
@@ -164,21 +164,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "415c8fa40b8902a7",
+  "active": "85b505ff89a66233",
   "lastOpenFiles": [
-    "random facts.md",
-    "od interest တွက်နည်း.md",
-    "credentials.md",
+    "coorperate account.md",
     "What can I get from here.md",
+    "Force Users to use Normal Loan rather than OD loan.md",
+    "home.md",
+    "Famous banks in Singapore and their general products.md",
+    "uopeople credentials.md",
+    "UAT testing.md",
+    "od nature vs loan.md",
+    "od interest တွက်နည်း.md",
+    "bank credit related notes.md",
+    "random facts.md",
+    "credentials.md",
     "brd.md",
     "Questions.md",
-    "uopeople credentials.md",
     "types of installment method.md",
-    "od nature vs loan.md",
-    "bank credit related notes.md",
     "Data Visualization Stuff.md",
     "Education Loan Data Collections.md",
-    "Famous banks in Singapore and their general products.md",
     "2024-10-03.md",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
