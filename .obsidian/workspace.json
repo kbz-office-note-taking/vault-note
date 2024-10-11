@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e781726db2f3c1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UAT စမ်းနေတဲ့ကောင်တွေ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea3e88288780432c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coorperate account.md",
+                "file": "2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coorperate account.md",
+                "file": "2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coorperate account.md"
+                "file": "2024-10-14.md"
               }
             }
           },
@@ -164,12 +189,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85b505ff89a66233",
+  "active": "ea3e88288780432c",
   "lastOpenFiles": [
+    "home.md",
+    "2024-10-14.md",
+    "Function names and their abbreviation.md",
+    "UAT စမ်းနေတဲ့ကောင်တွေ.md",
     "coorperate account.md",
     "What can I get from here.md",
     "Force Users to use Normal Loan rather than OD loan.md",
-    "home.md",
     "Famous banks in Singapore and their general products.md",
     "uopeople credentials.md",
     "UAT testing.md",
@@ -204,7 +232,6 @@
     "Excalidraw/Drawing 2024-10-04 10.43.22.excalidraw.md",
     "screenshots",
     "New folder",
-    "Excalidraw/Drawing 2024-10-03 13.47.36.excalidraw.md",
     "Excalidraw",
     "Skills to Improve",
     "Personal Notes"
