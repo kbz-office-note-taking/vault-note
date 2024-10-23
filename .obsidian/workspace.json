@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "67ccb6c0c958f936",
+        "id": "2b28417d7d0c7ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a8813d9dca9709",
+            "id": "b5eebc10ce338193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortcuts.md",
+                "file": "self brain storming travelling loan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shortcuts"
-            }
-          },
-          {
-            "id": "d745fad1485300ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "self brain storming travelling loan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d745fad1485300ff",
+  "active": "b5eebc10ce338193",
   "lastOpenFiles": [
+    "README.md",
+    "self brain storming travelling loan.md",
     "shortcuts.md",
     "Untitled.md",
-    "self brain storming travelling loan.md",
-    "README.md",
     "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
     "Personal Notes/Questions.md",
     "My Assignment Projects/Writing a brd document..md",
