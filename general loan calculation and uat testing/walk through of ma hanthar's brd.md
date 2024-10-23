@@ -1,0 +1,20 @@
+
+- brd အစမှာ revision history ရေးထားတယ် ==လိုအပ်တယ်လို့ထင်တယ်၊ brd က project အသက်ဝင်နေသ၍ပြောင်းလဲနိုင်တယ်။== 
+- $ **project summary** ခေါင်းစဥ်ကြီးအောက်မှာ objective ခေါင်းစဥ်တစ်ခုပဲရှိတယ်။ 
+- #### objectives
+	- ငါတို့က lien loan ဖြစ်နေတဲ့အတွက် အရင်က od nature ကြောင့် နစ်နာထားတာတွေကို လျှော့ချချင်လို့ ပြောင်းလဲရတာဖြစ်တယ်။ အဲအတွက် lien loan ထုတ်တယ်ပေါ့။ 
+	- system နဲ့ချိတ်ရမှာဖြစ်တဲ့အတွက် system control ရှိရမယ်၊ ဒီအချက်က product တိုင်းအတွက်လိုတယ်။ အဲတာကြောင့် ပြီးရင် uat စမ်းရတာ။ 
+	- kbz မှာ deposit account ရှိတဲ့သူတိုင်း သုံးလို့ရတယ်။ 
+	- ချေးငွေထုတ်ဖို့ asset တစ်ခုကို pawn ထားစရာမလိုဘဲ၊ ရှိပြီးသား deposit ပမာဏကနေ ထုတ်ချေးနိုင်တယ်။ 
+	- ==စုစုပေါင်း ၄ ချက်ပဲရှိတယ်နော်၊ ဘာလိုသေးလဲ? ==
+	- ? ဘာလို့ ဒီလောက်နည်းရတာလဲ? ၄ ချက်ပဲလား? project summary ဆိုတော့ ဘာလိုသေးလို့လဲ? summary ဆိုတော့ summary ပဲပေါ့နော်၊ ဒါပဲလား? 
+- $ target release 
+	- deposit acc ကနေထုတ်ချေးပေးတယ်ပေါ့။ fixed deposit နဲ့ casa acc မှာရတယ်ပေါ့။ 
+	- @ milestones မှာ 
+		- uat စမ်းမယ်၊ ပြီးရင် change start, change end ဒါဘာပြောချင်တာလဲ နားမလည်ဘူး။ ပြီးရင် နောက်ဆုံးအဆင့် release လုပ်မယ်။ 
+- #### **business requirement / Scope of the project** (google ကရှာကြည့်ထားသလိုမျိုး scope of the project ပါတယ်) 
+	- ? ဒီအထဲမှာ user interaction လိုအပ်တဲ့ business process တွေအပြင် product ရဲ့ process တွေကိုပါရေးထားတယ်။ scope of project မှာ ပါသင့်တာတွေလား? ရေးလို့တော့ရပါတယ်၊ ဒါပေမဲ့ loan process ဆိုပြီး ခေါင်းစဥ်သေး title တစ်ခုထည့်ပေးရင် ပိုရှင်းတာပေါ့။ ဒါပေမဲ့လည်း scope of project မှာ product workflow လည်းပါသင့်ပါတယ်၊ ငါသာဆိုရင် ခေါင်းစဥ်ခွဲပြီး ဒီနေရာမှာ flow chart နဲ့ဆွဲပေးမယ်။ 
+- #### system သုံးနေရတာဖြစ်တော့ functional requirement ဆိုတာထည့်ထားတယ်။ 
+	- loan ယူရင် deposit acc ကို auto ပိတ်မယ်၊ ဘာလို့ဆို ထည့်ထားတဲ့ပိုက်ဆံကို အပေါင်ထားတာလေ။ 
+	- loan due ဖြစ်လို့ ပြန်ဆပ်စရာရှိတာမဆပ်ရသေးရင်၊ auto casa ကနေနှုတ်မယ် 
+	- settled ဖြစ်ပြီးတာနဲ့ ပြန်ဖွင့်ပေးမယ်
