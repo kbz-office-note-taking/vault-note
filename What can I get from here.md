@@ -1,4 +1,0 @@
-- အကြွေးအကြောင်း financial အကြောင်းကို ထဲထဲဝင်ဝင်သိရောက်နိုင်မယ်။ 
-- social skill တွေ တိုးတက်လာမယ်။ 
-- time management skill တွေတိုးတက်လာမယ်။ 
-- self study skill တွေတိုးတက်မယ်။ 

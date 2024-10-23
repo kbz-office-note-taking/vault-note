@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "download music from zotify with gui.md",
+                "file": "HOME.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "download music from zotify with gui"
+              "title": "HOME.md"
             }
           },
           {
-            "id": "6c82fe5edc9c64e9",
+            "id": "5718ebbe69b4a38f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-22 14.32.12.excalidraw.md"
+                "file": "My Assignment Projects/Writing a brd document..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-22 14.32.12.excalidraw"
+              "icon": "lucide-file",
+              "title": "Writing a brd document."
             }
           }
         ],
@@ -197,36 +199,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c82fe5edc9c64e9",
+  "active": "5718ebbe69b4a38f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-03 13.47.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-22 14.32.12.excalidraw.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "download music from zotify with gui.md",
-    "Step by Step to Loan Account creation.md",
+    "daily notes/2024-10-23.md",
+    "HOME.md.md",
+    "My Assignment Projects/Writing a brd document..md",
+    "data visualization/Data Visualization Stuff.md",
+    "data visualization",
+    "Personal Notes/Questions.md",
+    "Sneaking my personal work/uopeople credentials.md",
     "coorperate account.md",
-    "UAT စမ်းနေတဲ့ကောင်တွေ.md",
-    "home.md",
-    "reverse လုပ်ခြင်း.md",
-    "ကိုသက်ပြောသမျှ.md",
-    "daily notes/2024-10-15.md",
-    "daily notes",
-    "od interest တွက်နည်း.md",
-    "2024-10-14.md",
-    "folder of template/daily notes.md",
-    "Function names and their abbreviation.md",
-    "What can I get from here.md",
-    "Force Users to use Normal Loan rather than OD loan.md",
-    "Famous banks in Singapore and their general products.md",
-    "uopeople credentials.md",
-    "UAT testing.md",
-    "od nature vs loan.md",
-    "bank credit related notes.md",
-    "random facts.md",
-    "credentials.md",
+    "personal stuff/credentials.md",
+    "personal stuff",
     "brd.md",
-    "Questions.md",
+    "random notes from office/UAT စမ်းနေတဲ့ကောင်တွေ.md",
+    "folder of template/daily notes.md",
+    "daily notes/2024-10-03.md",
+    "daily notes/2024-10-15.md",
+    "daily notes/2024-10-14.md",
+    "random notes from office/ကိုသက်ပြောသမျှ.md",
+    "random notes from office/types of installment method.md",
+    "random notes from office/UAT testing.md",
+    "random notes from office",
+    "Personal Notes/What can I get from here.md",
+    "general loan calculation and uat testing/Step by Step to Loan Account creation.md",
+    "general loan calculation and uat testing/random facts.md",
+    "general loan calculation and uat testing/reverse လုပ်ခြင်း.md",
+    "general loan calculation and uat testing/Function names and their abbreviation.md",
+    "general loan calculation and uat testing/bank credit related notes.md",
+    "general loan calculation and uat testing/od nature vs loan.md",
+    "general loan calculation and uat testing/od interest တွက်နည်း.md",
+    "general loan calculation and uat testing",
+    "Sneaking my personal work",
+    "education loan",
+    "Untitled.canvas",
+    "daily notes",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
     "attachments",
@@ -239,11 +246,6 @@
     "attachments/Pasted image 20241004123629.png",
     "attachments/Pasted image 20241004123615.png",
     "attachments/Pasted image 20241004120135.png",
-    "My Assignment Projects",
-    "screenshots",
-    "New folder",
-    "Excalidraw",
-    "Skills to Improve",
-    "Personal Notes"
+    "My Assignment Projects"
   ]
 }

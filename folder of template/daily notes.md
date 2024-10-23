@@ -1,6 +1,5 @@
-### Daily Record overview of what you did for today.
--  collected local banks and oversea banks' data for education loan
+#### Daily Record overview of what you did for today.
+
 
 #### What did you learn today?
-- fixed installment - ပုံသေသတ်မှတ်ထားပြီးသား အတိုးနှုန်း၊ average အတိုးနှုန်းကို လတိုင်းပုံမှန်ကောက်တာ၊  EMI လို့ပြောရင်လည်း သဘောတရားတူတယ်လို့ပြောလို့ရတယ်။
-- principal amount - အရင်ကိုပြောတာ
+

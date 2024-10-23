@@ -1,3 +1,0 @@
-- [ ] debit vs credit difference
-	- 
-- [ ] 

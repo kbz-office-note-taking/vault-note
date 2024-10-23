@@ -1,0 +1,3 @@
+- [ ] debit vs credit difference
+	- for banks: debit အဝင်၊ credit အထွက်
+- [ ] 
