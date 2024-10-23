@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a16a166e54b70c3a",
+        "id": "67ccb6c0c958f936",
         "type": "tabs",
         "children": [
           {
-            "id": "3524a1cda634faac",
+            "id": "d3a8813d9dca9709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md.md",
+                "file": "shortcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME.md"
+              "title": "shortcuts"
             }
           },
           {
-            "id": "5718ebbe69b4a38f",
+            "id": "d745fad1485300ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "walk through of ma hanthar's brd"
+              "title": "README"
             }
           }
         ],
@@ -199,12 +199,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "328a4f8e2037acc0",
+  "active": "d745fad1485300ff",
   "lastOpenFiles": [
-    "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
+    "shortcuts.md",
+    "Untitled.md",
+    "self brain storming travelling loan.md",
     "README.md",
+    "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
     "Personal Notes/Questions.md",
-    "credentials.md",
     "My Assignment Projects/Writing a brd document..md",
     "daily notes/2024-10-23.md",
     "data visualization/Data Visualization Stuff.md",
@@ -228,8 +230,6 @@
     "general loan calculation and uat testing/random facts.md",
     "general loan calculation and uat testing/reverse လုပ်ခြင်း.md",
     "general loan calculation and uat testing/Function names and their abbreviation.md",
-    "general loan calculation and uat testing/bank credit related notes.md",
-    "general loan calculation and uat testing/od nature vs loan.md",
     "general loan calculation and uat testing",
     "Sneaking my personal work",
     "education loan",
