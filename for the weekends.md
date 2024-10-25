@@ -1,0 +1,4 @@
+- [ ] I want to finished implement music downloading feature
+	- with the right tools and ai tools, I think I can. 
+- [ ] I want to make a django website. What about it? About my portfolio? I think I could do it if I pass the initial wandering stage. ==allocated time: 5 hours at most.==. I must do it or you learn flutter in a week.
+- [ ] Read and digest ultra-learning book. 

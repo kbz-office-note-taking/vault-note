@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2b28417d7d0c7ba9",
+        "id": "e08aba3b7f76dae0",
         "type": "tabs",
         "children": [
           {
-            "id": "b5eebc10ce338193",
+            "id": "4ab76e18bb06a154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-24.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24"
+              "title": "README"
+            }
+          },
+          {
+            "id": "cf1afca2aa182a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rough idea for travelling loan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rough idea for travelling loan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,17 +199,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5eebc10ce338193",
+  "active": "cf1afca2aa182a1f",
   "lastOpenFiles": [
-    "My Assignment Projects/Writing a brd document..md",
-    "daily notes/2024-10-24.md",
     "self brain storming travelling loan.md",
+    "daily notes/2024-10-25.md",
     "shortcuts.md",
     "README.md",
-    "Untitled.md",
+    "daily notes/2024-10-23.md",
+    "daily notes/2024-10-24.md",
+    "rough idea for travelling loan.md",
+    "for the weekends.md",
+    "My Assignment Projects/Writing a brd document..md",
     "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
     "Personal Notes/Questions.md",
-    "daily notes/2024-10-23.md",
     "data visualization/Data Visualization Stuff.md",
     "data visualization",
     "Sneaking my personal work/uopeople credentials.md",
@@ -213,8 +230,6 @@
     "random notes from office",
     "Personal Notes/What can I get from here.md",
     "general loan calculation and uat testing/Step by Step to Loan Account creation.md",
-    "general loan calculation and uat testing/random facts.md",
-    "general loan calculation and uat testing/reverse လုပ်ခြင်း.md",
     "general loan calculation and uat testing",
     "Sneaking my personal work",
     "education loan",

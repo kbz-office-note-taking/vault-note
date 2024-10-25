@@ -20,3 +20,5 @@
 	- >> Here, I have a thought, user can definitely apply for some other lien loan and use it for his trip. Why would he specifically need to use this loan? Does it have other benefits for him?
 		- For this matter, I think the bank should provide him other services in taking loan. e.g. food, acomodation providing in his trip. 
 - travelling loan may be lesser amount than you can borrow with lien loan or other personal loan or coorperate loan. 
+- repayment >> term payment, bullet type payment. 
+- amount >> limit 50 M 
