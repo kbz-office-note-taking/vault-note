@@ -1,7 +1,6 @@
 # loan amount 500$ to 5000$ dollars 
 
 
-
 # procedure to take loan
 - required documents, passport etc. 
 
