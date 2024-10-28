@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "603d698aef4b43ab",
+        "id": "07bbaedfe2c2743c",
         "type": "tabs",
         "children": [
           {
-            "id": "6e51b31cc4de089d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "walk through breakdowns/financing for balanced certificate (.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "financing for balanced certificate ("
-            }
-          },
-          {
-            "id": "5e9dfb4361b897c0",
+            "id": "d6616fd60038f48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Zotify Gui implemenation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,14 +184,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e9dfb4361b897c0",
+  "active": "d6616fd60038f48d",
   "lastOpenFiles": [
-    "README.md",
+    "Excalidraw/april_music_downloader_implementation.excalidraw.md",
+    "downloader_flow.drawio",
     "Zotify Gui implemenation.md",
+    "Creating Product road map from start to finish.md",
+    "daily notes/2024-10-28.md",
+    "README.md",
+    "walk through breakdowns/financing for balanced certificate.md",
     "MainUI.md",
     "Music Downloader GUI.md",
-    "Excalidraw/april_music_downloader_implementation.excalidraw.md",
-    "walk through breakdowns/financing for balanced certificate (.md",
     "weekends plans/Sep 26th weekends.md",
     "weekends plans",
     "folder of template/shortcuts.md",
@@ -220,7 +208,6 @@
     "tex2pdf.-95f25145cd5bacc2",
     "~WRL0997.tmp",
     "~WRD0993.tmp",
-    "~$nverted.docx",
     "travelling loan brd.md",
     "travelling loan/rough idea for travelling loan.md",
     "travelling loan/self brain storming travelling loan.md",
@@ -234,9 +221,6 @@
     "Sneaking my personal work/uopeople credentials.md",
     "coorperate account.md",
     "personal stuff/credentials.md",
-    "brd.md",
-    "random notes from office/UAT စမ်းနေတဲ့ကောင်တွေ.md",
-    "folder of template/daily notes.md",
     "Untitled.canvas",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
