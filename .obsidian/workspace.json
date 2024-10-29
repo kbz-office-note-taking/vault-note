@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07bbaedfe2c2743c",
+        "id": "cd72b82cc8791af1",
         "type": "tabs",
         "children": [
           {
-            "id": "d6616fd60038f48d",
+            "id": "fb4d4d0f5275e59a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotify Gui implemenation.md",
+                "file": "personal stuff/What will make you worth 2000$ a month as a programmer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zotify Gui implemenation"
+              "title": "What will make you worth 2000$ a month as a programmer"
             }
           }
         ]
@@ -72,8 +72,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ddde4ab53ffea458",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zotify Gui implemenation.md"
+                "file": "personal stuff/What will make you worth 2000$ a month as a programmer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Zotify Gui implemenation"
+              "title": "Outline of What will make you worth 2000$ a month as a programmer"
             }
           },
           {
@@ -166,11 +177,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +196,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6616fd60038f48d",
+  "active": "fb4d4d0f5275e59a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "HR Courses available in Myanmar.md",
+    "personal stuff/What will make you worth 2000$ a month as a programmer.md",
+    "personal stuff/personal stuff.md",
+    "Core Skills to be at the bank/product management/product management.md",
+    "personal stuff/credentials.md",
+    "Core Skills to be at the bank/product management/all steps of product management.md",
+    "Core Skills to be at the bank/product management/product management from an outsider perspective. .md",
+    "Core Skills to be at the bank/product management/The essence of product management and its importance.md",
+    "Core Skills to be at the bank/product management/What the heck is the difference between a product vs a project.md",
+    "Core Skills to be at the bank/Core Skills to be at the bank.md",
+    "Vault.md",
+    "Core Skills to be at the bank/product management/the essence of product management.md",
+    "Core Skills to be at the bank/product management/product management flowchart.canvas",
+    "//product management flowchart1.canvas",
+    "product management flowchart1.canvas",
+    "What the heck is product vs project.md",
+    "Core Skills to be at the bank/product management",
+    "Tags",
+    "Creating Product road map from start to finish.md",
+    "walk through breakdowns/financing for balanced certificate.md",
+    "Zotify Gui implemenation.md",
     "Excalidraw/april_music_downloader_implementation.excalidraw.md",
     "downloader_flow.drawio",
-    "Zotify Gui implemenation.md",
-    "Creating Product road map from start to finish.md",
     "daily notes/2024-10-28.md",
     "README.md",
-    "walk through breakdowns/financing for balanced certificate.md",
     "MainUI.md",
     "Music Downloader GUI.md",
     "weekends plans/Sep 26th weekends.md",
@@ -201,27 +232,11 @@
     "Untitled",
     "Brds/Travel Loan BRD.md",
     "Brds",
-    "Core Skills to be at the bank/the essence of product management.md",
     "Core Skills to be at the bank",
     "tex2pdf.-1c47f1aef33f4105/input.tex",
     "tex2pdf.-1c47f1aef33f4105",
     "tex2pdf.-95f25145cd5bacc2",
-    "~WRL0997.tmp",
-    "~WRD0993.tmp",
     "travelling loan brd.md",
-    "travelling loan/rough idea for travelling loan.md",
-    "travelling loan/self brain storming travelling loan.md",
-    "daily notes/2024-10-25.md",
-    "daily notes/2024-10-23.md",
-    "daily notes/2024-10-24.md",
-    "My Assignment Projects/Writing a brd document..md",
-    "general loan calculation and uat testing/walk through of ma hanthar's brd.md",
-    "Personal Notes/Questions.md",
-    "data visualization/Data Visualization Stuff.md",
-    "Sneaking my personal work/uopeople credentials.md",
-    "coorperate account.md",
-    "personal stuff/credentials.md",
-    "Untitled.canvas",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
     "attachments/Pasted image 20241004123655.png",
