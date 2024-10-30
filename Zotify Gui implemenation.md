@@ -1,5 +1,4 @@
-### Features:
-
+## Features:
 ### Functional requirements
 - currently zotify only supports cli usage. I may have to digest the project and modify to meet my requirement
 - python lrc provider modules.

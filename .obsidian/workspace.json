@@ -4,24 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "cd72b82cc8791af1",
+        "id": "e21f9a9db4c7307d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4d4d0f5275e59a",
+            "id": "a6049f0067498f69",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Core Skills to be at the bank/product management/product management flowchart.canvas",
+                "viewState": {
+                  "x": 145.87943539034137,
+                  "y": 2025.1353679554938,
+                  "zoom": -1.6666666666666663
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "product management flowchart"
+            }
+          }
+        ]
+      },
+      {
+        "id": "581c91afccca28e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63e1aa7a79edf39b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal stuff/What will make you worth 2000$ a month as a programmer.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What will make you worth 2000$ a month as a programmer"
+              "title": "README"
+            }
+          },
+          {
+            "id": "ef0e22f42b14b3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +112,7 @@
             }
           },
           {
-            "id": "ddde4ab53ffea458",
+            "id": "970027902a399816",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal stuff/What will make you worth 2000$ a month as a programmer.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of What will make you worth 2000$ a month as a programmer"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -196,47 +234,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb4d4d0f5275e59a",
+  "active": "ef0e22f42b14b3e9",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.md",
-    "HR Courses available in Myanmar.md",
-    "personal stuff/What will make you worth 2000$ a month as a programmer.md",
-    "personal stuff/personal stuff.md",
+    ".md",
+    "Product Management Life Circle.canvas",
+    "Core Skills to be at the bank/product management/product management flowchart.canvas",
     "Core Skills to be at the bank/product management/product management.md",
-    "personal stuff/credentials.md",
-    "Core Skills to be at the bank/product management/all steps of product management.md",
-    "Core Skills to be at the bank/product management/product management from an outsider perspective. .md",
-    "Core Skills to be at the bank/product management/The essence of product management and its importance.md",
     "Core Skills to be at the bank/product management/What the heck is the difference between a product vs a project.md",
     "Core Skills to be at the bank/Core Skills to be at the bank.md",
-    "Vault.md",
+    "weekends plans/Sep 26th weekends.md",
+    "Zotify Gui implemenation.md",
+    "Excalidraw/april_music_downloader_implementation.excalidraw.md",
+    "drawio/downloader_flow.drawio",
+    "drawio",
+    "New folder",
+    "fail-safe/delete_these.txt",
+    "fail-safe/erase.py",
+    "fail-safe",
+    "~$nverted.docx",
     "Core Skills to be at the bank/product management/the essence of product management.md",
-    "Core Skills to be at the bank/product management/product management flowchart.canvas",
+    "Core Skills to be at the bank/product management/all steps of product management.md",
+    "Core Skills to be at the bank/product management/The essence of product management and its importance.md",
+    "Core Skills to be at the bank/product management/product management from an outsider perspective. .md",
+    "HR Courses available in Myanmar.md",
+    "How to finish a project the right way.md",
+    "Untitled 1.md",
+    "Loan For Individual or Group Travel.md",
+    "Core Skills to be at the bank/product management/tex2pdf.-11fa61c087a43d3f/input.tex",
+    "Core Skills to be at the bank/product management/tex2pdf.-11fa61c087a43d3f",
+    "travelling loan/self brain storming travelling loan.md",
+    "travelling loan/rough idea for travelling loan.md",
+    "personal stuff/credentials.md",
+    "personal stuff/personal stuff.md",
+    "personal stuff/What will make you worth 2000$ a month as a programmer.md",
+    "Vault.md",
     "//product management flowchart1.canvas",
     "product management flowchart1.canvas",
     "What the heck is product vs project.md",
-    "Core Skills to be at the bank/product management",
-    "Tags",
     "Creating Product road map from start to finish.md",
     "walk through breakdowns/financing for balanced certificate.md",
-    "Zotify Gui implemenation.md",
-    "Excalidraw/april_music_downloader_implementation.excalidraw.md",
-    "downloader_flow.drawio",
-    "daily notes/2024-10-28.md",
-    "README.md",
-    "MainUI.md",
-    "Music Downloader GUI.md",
-    "weekends plans/Sep 26th weekends.md",
-    "weekends plans",
-    "folder of template/shortcuts.md",
-    "Untitled",
-    "Brds/Travel Loan BRD.md",
-    "Brds",
-    "Core Skills to be at the bank",
-    "tex2pdf.-1c47f1aef33f4105/input.tex",
-    "tex2pdf.-1c47f1aef33f4105",
-    "tex2pdf.-95f25145cd5bacc2",
-    "travelling loan brd.md",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
     "attachments/Pasted image 20241004123655.png",
