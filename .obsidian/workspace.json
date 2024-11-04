@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e21f9a9db4c7307d",
+        "id": "74a618741e24ff7c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6049f0067498f69",
+            "id": "3d6f3dcb2b475eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotify Gui implemenation.md",
+                "file": "vim notes/common commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zotify Gui implemenation"
+              "title": "common commands"
             }
           },
           {
-            "id": "033eff38f469866d",
+            "id": "99ca2c7f09435e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "lien loan uat showcase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "lien loan uat showcase"
             }
           }
         ],
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "0091e6be10ae40c9",
+            "id": "315874a0ff69f6cd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Zotify Gui implemenation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Zotify Gui implemenation"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -206,26 +206,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "033eff38f469866d",
+  "active": "99ca2c7f09435e9e",
   "lastOpenFiles": [
-    "Zotify Gui implemenation.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Core Skills to be at the bank/product management/product management flowchart.canvas",
+    "vim notes/common commands.md",
+    "lien loan uat showcase.md",
+    "vim notes/vim notes.md",
+    "market research for programming.md",
+    "vim notes",
+    "Core Skills to be at the bank/product management/assignment/product management flowchart single timeline.canvas",
+    "Core Skills to be at the bank/product management/assignment/Product Life Circle.canvas",
     "README.md",
-    ".md",
-    "Product Management Life Circle.canvas",
+    "Core Skills to be at the bank/product management/assignment/all steps of product management.md",
+    "Core Skills to be at the bank/product management/assignment/product management from an outsider perspective. .md",
+    "Core Skills to be at the bank/product management/assignment/The essence of product management and its importance.md",
+    "Core Skills to be at the bank/product management/assignment/assignment.md",
+    "personal stuff/credentials.md",
+    "Core Skills to be at the bank/product management/the essence of product management.md",
+    "Core Skills to be at the bank/product management/the difference between a product vs a project (polished version of my own break down).md",
     "Core Skills to be at the bank/product management/product management.md",
-    "Core Skills to be at the bank/product management/What the heck is the difference between a product vs a project.md",
+    "Core Skills to be at the bank/product management/assignment",
+    "Core Skills to be at the bank/product management/Untitled.md",
+    "My Assignment Projects/Writing a brd document..md",
+    "Brds/Travel Loan BRD.md",
+    "daily notes/2024-10-24.md",
+    "daily notes/2024-10-28.md",
+    "daily notes/2024-10-25.md",
+    "daily notes/2024-10-15.md",
+    "daily notes/2024-10-23.md",
+    "daily notes/2024-10-14.md",
+    "daily notes/2024-10-03.md",
+    "Sneaking my personal work/uopeople credentials.md",
+    "Sneaking my personal work/download music from zotify with gui.md",
     "Core Skills to be at the bank/Core Skills to be at the bank.md",
-    "weekends plans/Sep 26th weekends.md",
-    "Excalidraw/april_music_downloader_implementation.excalidraw.md",
+    "Untitled.canvas",
+    ".md",
     "drawio/downloader_flow.drawio",
     "drawio",
     "New folder",
@@ -233,26 +250,8 @@
     "fail-safe/erase.py",
     "fail-safe",
     "~$nverted.docx",
-    "Core Skills to be at the bank/product management/the essence of product management.md",
-    "Core Skills to be at the bank/product management/all steps of product management.md",
-    "Core Skills to be at the bank/product management/The essence of product management and its importance.md",
-    "Core Skills to be at the bank/product management/product management from an outsider perspective. .md",
-    "HR Courses available in Myanmar.md",
-    "How to finish a project the right way.md",
-    "Loan For Individual or Group Travel.md",
-    "Core Skills to be at the bank/product management/tex2pdf.-11fa61c087a43d3f/input.tex",
-    "Core Skills to be at the bank/product management/tex2pdf.-11fa61c087a43d3f",
-    "travelling loan/self brain storming travelling loan.md",
-    "travelling loan/rough idea for travelling loan.md",
-    "personal stuff/credentials.md",
-    "personal stuff/personal stuff.md",
-    "personal stuff/What will make you worth 2000$ a month as a programmer.md",
-    "Vault.md",
     "//product management flowchart1.canvas",
     "product management flowchart1.canvas",
-    "What the heck is product vs project.md",
-    "Creating Product road map from start to finish.md",
-    "walk through breakdowns/financing for balanced certificate.md",
     "attachments/Pasted image 20241004115336.png",
     "attachments/Pasted image 20241004123734.png",
     "attachments/Pasted image 20241004123655.png",

@@ -1,3 +1,9 @@
+---
+color: var(--mk-color-red)
+File: 
+what does this property style?: I don't know
+What is this?: Title?
+---
 # Welcome from KBZ vault note repository
 
 # what did I learn?

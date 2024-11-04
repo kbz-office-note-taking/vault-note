@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"07328e08f240954d","x":1320,"y":823,"width":260,"height":140,"type":"text","text":"### repositioning according to market value"},
+		{"id":"0cb27623d32b0b00","x":1214,"y":1400,"width":212,"height":100,"type":"text","text":"### product sunsetting"},
+		{"id":"2b717a80587f06e7","x":376,"y":1270,"width":385,"height":180,"type":"text","text":"### product maintainence and developing extensive features to get into bigger and better position in the market."},
+		{"id":"f0a7c678cd0bdaac","x":761,"y":1720,"width":292,"height":80,"type":"text","text":"### the product lives"},
+		{"id":"5d1770bf2cd8a871","type":"text","text":"### Product Launch","x":729,"y":373,"width":228,"height":93},
+		{"id":"22dd0a8421746fe4","type":"text","text":"### Maturity Phase","x":776,"y":823,"width":219,"height":93},
+		{"id":"5f9632a85816ebdf","x":543,"y":1052,"width":283,"height":120,"type":"text","text":"### product going well, continually generating profits"},
+		{"id":"0ff459563c28abae","x":948,"y":1064,"width":266,"height":108,"type":"text","text":"### Product poor performance"},
+		{"id":"7daff9c6bfcfa88b","type":"text","text":"### Product Development","x":363,"y":40,"width":544,"height":80},
+		{"id":"1c87069e43c5d677","type":"text","text":"### Pre-launch Preparation","x":347,"y":200,"width":270,"height":93},
+		{"id":"11f6b1bfa827560e","type":"text","text":"# visualize idea\n","x":0,"y":-188,"width":258,"height":107},
+		{"id":"5e6860cb8cae8caf","type":"text","text":"### Growth Phase","x":748,"y":640,"width":202,"height":93},
+		{"id":"495743ef331c8b7d","type":"text","text":"### Post Launch Monitoring","x":405,"y":503,"width":212,"height":94},
+		{"id":"d21e7aa73ed75558","x":1320,"y":363,"width":268,"height":103,"type":"text","text":"### new improvement ideas"},
+		{"id":"a4746106e5bb45eb","type":"text","text":"### Planning and Strategy","x":617,"y":-239,"width":262,"height":103}
+	],
+	"edges":[
+		{"id":"cedbca500ecb315b","fromNode":"11f6b1bfa827560e","fromSide":"right","toNode":"a4746106e5bb45eb","toSide":"left","label":"complex ideas"},
+		{"id":"9d8f7b4a8d7bd12d","fromNode":"a4746106e5bb45eb","fromSide":"right","toNode":"7daff9c6bfcfa88b","toSide":"right"},
+		{"id":"9c2e3ad1d1a9e401","fromNode":"11f6b1bfa827560e","fromSide":"right","toNode":"7daff9c6bfcfa88b","toSide":"left","label":"simple enough"},
+		{"id":"1a38425f72abc8cc","fromNode":"7daff9c6bfcfa88b","fromSide":"bottom","toNode":"1c87069e43c5d677","toSide":"top"},
+		{"id":"ecceac352784bf79","fromNode":"1c87069e43c5d677","fromSide":"left","toNode":"7daff9c6bfcfa88b","toSide":"left"},
+		{"id":"fe741a69f70dc8d0","fromNode":"1c87069e43c5d677","fromSide":"bottom","toNode":"5d1770bf2cd8a871","toSide":"top"},
+		{"id":"5c867c6ddf5fd5be","fromNode":"5d1770bf2cd8a871","fromSide":"bottom","toNode":"495743ef331c8b7d","toSide":"top"},
+		{"id":"ed698d60a62fa75e","fromNode":"495743ef331c8b7d","fromSide":"bottom","toNode":"5e6860cb8cae8caf","toSide":"top"},
+		{"id":"cde1428ed21479a3","fromNode":"5e6860cb8cae8caf","fromSide":"right","toNode":"7daff9c6bfcfa88b","toSide":"right","label":"Improvement"},
+		{"id":"d87f5fe52f0c63df","fromNode":"5e6860cb8cae8caf","fromSide":"bottom","toNode":"22dd0a8421746fe4","toSide":"top"},
+		{"id":"3a74fe3908d88993","fromNode":"22dd0a8421746fe4","fromSide":"bottom","toNode":"5f9632a85816ebdf","toSide":"top"},
+		{"id":"28c4e53c3c933361","fromNode":"5f9632a85816ebdf","fromSide":"bottom","toNode":"2b717a80587f06e7","toSide":"top"},
+		{"id":"daa8ef3c2c0f8314","fromNode":"22dd0a8421746fe4","fromSide":"bottom","toNode":"0ff459563c28abae","toSide":"top"},
+		{"id":"81b35940997b917a","fromNode":"0ff459563c28abae","fromSide":"bottom","toNode":"0cb27623d32b0b00","toSide":"top","label":"if the product doesn't meet the objectives anymore"},
+		{"id":"179e7fc6bc88b4dc","fromNode":"0ff459563c28abae","fromSide":"right","toNode":"07328e08f240954d","toSide":"left"},
+		{"id":"35d59ec4841a43bf","fromNode":"07328e08f240954d","fromSide":"top","toNode":"d21e7aa73ed75558","toSide":"bottom"},
+		{"id":"b076bb1005eccb9e","fromNode":"d21e7aa73ed75558","fromSide":"top","toNode":"7daff9c6bfcfa88b","toSide":"right"},
+		{"id":"4437cd3dbd7a1a5b","fromNode":"2b717a80587f06e7","fromSide":"bottom","toNode":"f0a7c678cd0bdaac","toSide":"top"},
+		{"id":"478bcaa2fc0ef253","fromNode":"2b717a80587f06e7","fromSide":"left","toNode":"7daff9c6bfcfa88b","toSide":"left","label":"small extensive improvement ideas"}
+	]
+}
